@@ -177,11 +177,11 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 
 | Plateforme | Compte | Usage |
 |---|---|---|
-| Instagram | @dj_noname13 | [ ] |
-| TikTok | @franckgomis | [ ] |
-| YouTube | @djnoname1302 | [ ] |
-| SoundCloud | DJ NøName | [ ] |
-| Mixcloud | DJ NøName | [ ] |
+| Instagram | @dj_noname13 | Vitrine principale : extraits de sets, stories, annonces de dates, visuels de la charte, contact booking |
+| TikTok | @franckgomis | Vidéos courtes : extraits de mixes, coulisses, teasers du podcast |
+| YouTube | @djnoname1302 | Sets filmés, lives, épisodes du podcast en vidéo |
+| SoundCloud | DJ NøName | Mixes et sessions (Black Cap Sessions), écoute en ligne |
+| Mixcloud | DJ NøName | Diffusion longue des mixes, auditeurs radio et DJ |
 
 ---
 
