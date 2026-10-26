@@ -180,7 +180,8 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 | Instagram | @dj_noname13 | [ ] |
 | TikTok | @franckgomis | [ ] |
 | YouTube | @djnoname1302 | [ ] |
-| SoundCloud / Mixcloud | [ ] | [ ] |
+| SoundCloud | DJ NøName | [ ] |
+| Mixcloud | [ ] | [ ] |
 
 ---
 
@@ -201,3 +202,4 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 - **Instagram :** @dj_noname13
 - **TikTok :** @franckgomis
 - **YouTube :** @djnoname1302
+- **SoundCloud :** DJ NøName
