@@ -65,6 +65,35 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 - Covers numériques (SoundCloud, Mixcloud, Spotify, Deezer) : 3000 × 3000 px. Noir pour les mixes réguliers, blanc pour les sorties, bleu signal pour les lives et éditions spéciales.
 - Numérotation de catalogue : `BCK–001`, `BCK–002`, `BCK–LIVE–01`
 
+#### Papeterie
+*Carton, papier, encre.* La papeterie reprend les mêmes règles avec plus de blanc. Le noir passe au recto des cartes, le kraft habille ce qui voyage : enveloppes, étiquettes, stickers. Les coordonnées de la charte sont données à titre d'exemple.
+
+| Support | Format | Détail |
+|---|---|---|
+| Carte de visite, recto | 85 × 55 mm | Fond noir, logo en réserve, mention « KONCEPT » |
+| Carte de visite, verso | 85 × 55 mm, papier blanc 350 g | Nom, rôle (DJ / SELECTA), e-mail, téléphone, réseau social |
+| Papier à en-tête | A4, Barlow 10 pt, marges 20 mm | Objet et date en haut, pied de page : BOOKING · MIX · LIVE et BLACKCAPKONCEPT.COM |
+| Enveloppe | DL, 220 × 110 mm, kraft 120 g | Logo noir, tampon BCK, adresse du destinataire |
+| Tampon | Ø 40 mm | Mention « BCK · SELECTION · APPROVED » |
+| Sticker | Ø 60 mm | Logo, vinyle adhésif |
+| Étiquette de bac | 70 × 25 mm | Numéro de catalogue (`BCK–001`), titre (SESSIONS VOL. 01), style et BPM (House · 118–128 BPM) |
+
+**Coordonnées d'exemple de la charte :** contact@blackcapkoncept.com · +33 6 00 00 00 00 · @blackcapkoncept (à remplacer par les vraies).
+
+#### Fiche imprimeur
+À transmettre avec les fichiers. Exporter en **PDF/X-4**, avec **fonds perdus de 3 mm**, **noir en 100 K** pour le texte et **noir riche (40 C · 30 M · 30 J · 100 K)** pour les grands aplats.
+
+| Support | Format | Papier | Finition |
+|---|---|---|---|
+| Pochette vinyle 12" | 315 × 315 mm | Carton 350 g non couché | Noir riche, logo en réserve, vernis sélectif mat sur le logo |
+| Étiquette de disque | Ø 100 mm | Kraft 90 g | Impression 1 couleur noir |
+| Digipak CD | 2 × 125 × 125 mm | Carton 300 g | Pelliculage mat soft-touch |
+| Covers numériques | 3000 × 3000 px | JPG sRGB | Logo ≥ 600 px de large, texte hors des 8 % du bord |
+| Carte de visite | 85 × 55 mm | Blanc 350 g non couché | Recto noir, verso blanc, coins droits |
+| Papier à en-tête | A4, 210 × 297 mm | Blanc 100 g | Impression 1 couleur noir |
+| Enveloppe | DL, 220 × 110 mm | Kraft 120 g | Logo noir, tampon BCK |
+| Sticker | Ø 60 mm | Vinyle adhésif | Découpe ronde, liseré blanc |
+
 ### Valeurs
 - [Valeur 1]
 - [Valeur 2]
