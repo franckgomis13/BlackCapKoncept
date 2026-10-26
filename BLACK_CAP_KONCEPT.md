@@ -178,7 +178,7 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 | Plateforme | Compte | Usage |
 |---|---|---|
 | Instagram | @dj_noname13 | [ ] |
-| TikTok | [@...] | [ ] |
+| TikTok | @franckgomis | [ ] |
 | YouTube | [ ] | [ ] |
 | SoundCloud / Mixcloud | [ ] | [ ] |
 
@@ -199,3 +199,4 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 - **Téléphone :** +243 85 438 41 77
 - **E-mail :** djnoname1302@gmail.com
 - **Instagram :** @dj_noname13
+- **TikTok :** @franckgomis
