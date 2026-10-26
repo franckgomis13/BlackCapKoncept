@@ -151,7 +151,7 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 
 ## 4. Le Podcast : « C'est sample et c'est bien »
 
-*Source : dossier de présentation de l'émission (octobre 2026). Une production Black Cap Koncept, présentée par NoName. Saison 1, un épisode par semaine.*
+*Source : dossier de présentation de l'émission (octobre 2026). Une production Black Cap Koncept, présentée par NøName. Saison 1, un épisode par semaine.*
 
 ### Concept
 **4 sons du moment, 3 minutes chrono.** « C'est sample et c'est bien » passe en revue 4 ou 5 morceaux qui tournent en ce moment et révèle pour chacun le morceau qu'il sample. On écoute le hit, on écoute l'original, et on comprend en une phrase ce qui a été repris.
@@ -202,7 +202,7 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 *Sources du dossier : Wikipedia, Songfacts, Purebreak (14 février 2026), vérifiées le 12 octobre 2026.*
 
 ### Invités et thèmes
-Pas d'invité dans le format actuel : NoName présente seul. Les thèmes viennent des morceaux du moment et des sons proposés par les auditeurs en commentaire.
+Pas d'invité dans le format actuel : NøName présente seul. Les thèmes viennent des morceaux du moment et des sons proposés par les auditeurs en commentaire.
 
 ### Diffusion
 - **Version audio :** Spotify, Deezer, Apple Podcasts
