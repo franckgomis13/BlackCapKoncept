@@ -78,7 +78,7 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 | Sticker | Ø 60 mm | Logo, vinyle adhésif |
 | Étiquette de bac | 70 × 25 mm | Numéro de catalogue (`BCK–001`), titre (SESSIONS VOL. 01), style et BPM (House · 118–128 BPM) |
 
-**Coordonnées :** +243 85 438 41 77 (numéro réel). L'e-mail et le compte social de la charte, contact@blackcapkoncept.com et @blackcapkoncept, sont des exemples à remplacer par les vrais.
+**Coordonnées :** djnoname1302@gmail.com · +243 85 438 41 77. Le compte social de la charte, @blackcapkoncept, est un exemple à remplacer par le vrai.
 
 #### Fiche imprimeur
 À transmettre avec les fichiers. Exporter en **PDF/X-4**, avec **fonds perdus de 3 mm**, **noir en 100 K** pour le texte et **noir riche (40 C · 30 M · 30 J · 100 K)** pour les grands aplats.
@@ -197,5 +197,5 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 ## 7. Contact
 
 - **Téléphone :** +243 85 438 41 77
-- **E-mail :** [ ]
+- **E-mail :** djnoname1302@gmail.com
 - **Réseaux :** [ ]
