@@ -185,7 +185,7 @@ Vinyle, CD et covers numériques partagent la même grille : logo ou titre en ha
 4. **Le détail (10 s) :** ce qui a été repris (refrain, boucle, voix, mélodie) ou une anecdote, en une phrase.
 
 **Formules qui ne changent jamais :**
-- Générique : « C'est sample et c'est bien !! » (jingle construit sur un break et un scratch du pack de sons NONAME)
+- Générique : « C'est sample et c'est bien !! » (jingle construit sur un break et un scratch du pack de sons NøName)
 - Ouverture : « Salut la famille ! C'est Sample… heu c'est simple : 4 sons du moment, 4 secrets. On y va. »
 - Définition : « Sampler, c'est prendre un bout d'un morceau qui existe déjà pour en fabriquer un nouveau. »
 - Fin de morceau : « Tu l'as entendu ? Maintenant, tu ne pourras plus jamais ne pas l'entendre. »
@@ -223,7 +223,7 @@ Pas d'invité dans le format actuel : NøName présente seul. Les thèmes vienne
 | J0 · J+1 | Publication et réseaux | Audio sur les plateformes, vidéo sur Reels, TikTok et Shorts ; répondre aux commentaires et noter les sons proposés |
 
 - **Où trouver les sons :** Top Singles France et Billboard Hot 100 ; Top 50 Spotify et Shazam ; WhoSampled, rubrique « Hot Samples » ; les sons proposés en commentaire.
-- **Boîte à outils :** WhoSampled et Discogs pour l'enquête ; le pack de sons NONAME pour le générique ; la charte Black Cap Koncept et le logo de l'émission pour les visuels.
+- **Boîte à outils :** WhoSampled et Discogs pour l'enquête ; le pack de sons NøName pour le générique ; la charte Black Cap Koncept et le logo de l'émission pour les visuels.
 - **Enregistrement :** [matériel, lieu]
 - **Montage :** [outil, personne]
 
